@@ -2,11 +2,12 @@
     <div>
 <div class="header">
     <span>
-        <router-link to="/home" active-class="active" exact >Home</router-link>
+        <router-link to="/" active-class="active" exact >Home</router-link>
     </span>
     <span>
-        <router-link to="/user" active-class="active">User</router-link>
+        <router-link to="/user/" active-class="active">Users</router-link>
     </span>
+   
     
 </div>
     </div>
